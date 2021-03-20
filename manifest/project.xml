@@ -9,6 +9,5 @@
         <members>FeedItemTrigger</members>
         <name>ApexTrigger</name>
     </types>
-    
     <version>51.0</version>
 </Package>
